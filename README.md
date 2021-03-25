@@ -8,3 +8,5 @@ the bottom of the screen, the player loses a ship. If the player loses three shi
 
 Python Crash Course 
 Hands On Project 
+
+![image](https://user-images.githubusercontent.com/44477452/112551063-91b63d00-8d7d-11eb-8e8f-ddbe5ec92fa7.png)
